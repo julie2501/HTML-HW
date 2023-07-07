@@ -1,0 +1,59 @@
+<html>
+    <<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            
+            <title> first website</title>
+        
+        </head>
+        <body>
+            <h1>Hello</h1>
+            <h2>this is julie</h2>
+            <h3>i studied be cse</h3> 
+            <h4>now i am vetti</h4>
+            <h5>i am just learning html</h5>
+            <h6>will be going to sleep</h6>
+            <p>this is my introduction free time edit videos</p>
+            <p><u> ipsum dolor sit amet</u> consectetur, adipisicing elit. 
+                Nihil deleniti obcaecati<strong> provident velit magni quas, </strong>aspernatur repudiandae id nulla cupiditate, 
+                esse beatae facere totam dolorum mollitia repellat enim blanditiis ab.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, excepturi?</p>
+                <h3>2<sup>4</sup>=8</h3>
+                <h3>o<sub>2</sub>=0xygen</h3>
+                <p>Lorem, ipsum dolor sit amet 
+                    consectetur adipisicing elit.<strong> <em> quos aspernatur, provident</em></strong> labore aliqu</p>
+                <h2>trademark &trade;</h2>
+                <h2>copyright &copy;</h2>
+                <h2>hello &target;</h2>
+                <h2>bye &therefore;</h2>
+                <h2>world &triangle;</h2>
+                <h2>python &triangledown;</h2>
+                <h2> java &trianglerighteq;</h2>
+                <h2>c++ &tridot;</h2>
+                <h2>c &triminus;</h2>
+                <h2>html &DoubleRightArrow;</h2>
+                <ul><li>one</li>
+                <li>second</li>
+                <li>three</li>
+                <ol>
+                    <li>3.1</li>
+                    <li>3.2</li>
+                    <li>3.3</li>
+                </ol>
+                <li>four</li>
+            </ul>
+            <ol>
+                <li>tomaato &tcaron;</li>
+                <ul>
+                    <li>2.1 tomato curry</li>
+                    <li>2.2 cuury eaved</li>
+                    <li>2.3 lemon rice</li>
+                </ul>
+                <li>beans</li>
+                <li>mango</li>
+                <li>banana</li>
+                <li>grapes</li>
+            </ol>
+            </body>
+    </html>
